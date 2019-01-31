@@ -1,0 +1,10 @@
+urllib3
+requests_oauthlib
+requests
+oauthlib
+idna
+chardet
+certifi
+pytesseract
+
+contact info: zakhariajoel@gmail.com

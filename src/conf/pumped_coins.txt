@@ -1,0 +1,12 @@
+(lp0
+S'DGB'
+p1
+aS'RDD'
+p2
+aS'BURST'
+p3
+aS'XRP'
+p4
+aS'EDG'
+p5
+a.
